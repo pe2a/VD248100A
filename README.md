@@ -44,7 +44,7 @@ with Raspberry Pi 4:
 - Hobby usage like Christmas Tree
 
 
-**## What is in the box?**
+## What is in the box?
 
 - Industrial Shield
 - 2x20 Pin 30cm Connector Cable 
