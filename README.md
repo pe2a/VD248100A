@@ -12,7 +12,7 @@ Usage Level: Basic / Intermediate / Advanced
 - Isolated RS485
 - Power Voltage : 7-28VDC
 
-![Image of pe2a](http://pe2a.com/images/VD248100A-1.png)
+![Image of pe2a](http://pe2a.com/images/VD248100A-1.jpg)
 
 
 ![Image of pe2a](http://pe2a.com/images/VD248100A-3.png)
