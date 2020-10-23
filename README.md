@@ -8,7 +8,7 @@ Usage Level: Basic / Intermediate / Advanced
 
 ## Shield Specification
 - 4ch 0-24V Digital Output (500mA @24VDC)
-- 2ch 0-24V Digital Input
+- 4ch 0-24V Digital Input
 - Isolated RS485
 - Power Voltage : 7-28VDC
 
