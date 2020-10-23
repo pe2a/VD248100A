@@ -47,7 +47,7 @@ with Raspberry Pi 4:
 ## What is in the box?
 
 - Industrial Shield
-- 2x20 Pin 30cm Connector Cable 
+
 
 ### Raspberry Pi IO Schematic
 
